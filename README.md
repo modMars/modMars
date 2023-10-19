@@ -16,9 +16,12 @@
     </a>
   </div>
 <hr>
+<br/>
+<br/>
 
 <div>
   <img align='right' src='https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif' width='450'>
+<br/>
 <br/>
 <br/>
   <h3 align='center'>About me</h3>
@@ -47,6 +50,6 @@
 <br/><br/>
 <h2 align='center'>Thank you for visiting my profile!</h2>
 <p align='center'>I'll be working hard to improve my programming skills</p>
-  <img align='center' src='https://media.giphy.com/media/eFdRmrg7y604pPLl7g/giphy.gif' width='300'>
+  &nbsp;&nbsp;&nbsp;<img align='center' src='https://media.giphy.com/media/eFdRmrg7y604pPLl7g/giphy.gif' width='300'>
   <img align='center' src='https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif' width='370'>
 <hr/>
