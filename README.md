@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @modMars
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning JavaScript and NodeJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Hi!,_I'm_Alejandro](https://github.com/modMars/modMars/assets/90658669/5bebec30-48bc-4f5e-bcf9-44e21fe7e222)
 
-<!---
-modMars/modMars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">A passionate software developer from México  🇲🇽</h3>
+  <div align='center'>  
+    <a href="mailto:mod.mars@hotmail.com">
+      <img src="https://img.shields.io/badge/Mail-0077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/alejandrosalcido0/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://twitter.com/modMars_" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://modmars-portfolio.netlify.app/" target="_blank">
+       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    </a>
+  </div>
+<hr>
+
+<div>
+  <img align='right' src='https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif'>
+<br/>
+<br/>
+<div align="center">
+  🙋‍♂️ <strong>Gamer, VR Enthusiast, Home Cook, Guitar Player.</strong><br>
+ 🌱 I’m currently learning <strong>NodeJS, TypeScript, MySQL</strong>
+ ⚡ Fun fact.. i dunno lol i just wanna commit and go to sleep
+ </div>
+<br><br><br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,jest,vite,linux,webpack,tailwind" /><br>
+</div>
+<hr/>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=modMars&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=modMars&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=modMars&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
