@@ -18,15 +18,15 @@
 <hr>
 
 <div>
-  <img align='right' src='https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif'>
+  <img align='right' src='https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif' width='500'>
 <br/>
 <br/>
-<div align="center">
-  🙋‍♂️ <strong>Gamer, VR Enthusiast, Home Cook, Guitar Player.</strong><br>
- 🌱 I’m currently learning <strong>NodeJS, TypeScript, MySQL</strong>
- ⚡ Fun fact.. i dunno lol i just wanna commit and go to sleep
- </div>
-<br><br><br>
+  <h3 align='center'>About me</h3>
+    <p align='left'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🙋‍♂️ <strong>Gamer, VR Enthusiast, Home Cook, Guitar Player.</strong></p>
+    <p align='left'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning <strong>NodeJS, TypeScript, MySQL.</strong></p>
+    <p align='left'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Really likes front-end development</p>
+  <p align='left'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁 Goal is to become a full-stack dev</p>
+<br><br><br><br><br><br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -45,4 +45,8 @@
 </div>
 
 <br/><br/>
+<h2 align='center'>Thank you for visiting my profile!</h2>
+<p align='center'>I'll be working hard to improve my programming skills</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align='center' src='https://media.giphy.com/media/eFdRmrg7y604pPLl7g/giphy.gif'>
+  <img align='center' src='https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif' width='475'>
 <hr/>
