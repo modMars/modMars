@@ -18,14 +18,14 @@
 <hr>
 
 <div>
-  <img align='right' src='https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif' width='500'>
+  <img align='right' src='https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif' width='450'>
 <br/>
 <br/>
   <h3 align='center'>About me</h3>
-    <p align='left'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🙋‍♂️ <strong>Gamer, VR Enthusiast, Home Cook, Guitar Player.</strong></p>
-    <p align='left'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning <strong>NodeJS, TypeScript, MySQL.</strong></p>
-    <p align='left'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Really likes front-end development</p>
-  <p align='left'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏁 Goal is to become a full-stack dev</p>
+    <p align='center'>🙋‍♂️ <strong>Gamer, VR Enthusiast, Home Cook, Guitar Player.</strong></p>
+    <p align='center'>🌱 Currently learning <strong>NodeJS, TypeScript, MySQL.</strong></p>
+    <p align='center'>⚡ Really likes front-end development</p>
+  <p align='center'>🏁 Goal is to become a full-stack dev</p>
 <br><br><br><br><br><br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
