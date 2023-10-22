@@ -1,6 +1,6 @@
 ![Hi!,_I'm_Alejandro](https://github.com/modMars/modMars/assets/90658669/5bebec30-48bc-4f5e-bcf9-44e21fe7e222)
 
-<h3 align="center">A passionate software developer from México  🇲🇽</h3>
+<h3 align="center">Passionate software developer from México  🇲🇽</h3>
   <div align='center'>  
     <a href="mailto:mod.mars@hotmail.com">
       <img src="https://img.shields.io/badge/Mail-0077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
