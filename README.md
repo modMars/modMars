@@ -23,7 +23,6 @@
   <img align='right' src='https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif' width='450'>
 <br/>
 <br/>
-<br/>
   <h3 align='center'>About me</h3>
     <p align='center'>🙋‍♂️ <strong>Gamer, VR Enthusiast, Home Cook, Guitar Player.</strong></p>
     <p align='center'>🌱 Currently learning <strong>NodeJS, MongoDB.</strong></p>
@@ -33,11 +32,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,jest,vite,linux,webpack,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,jest,vite,linux,webpack,tailwind,mongodb" /><br>
 </div>
-<hr/>
 
-
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
