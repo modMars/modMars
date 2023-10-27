@@ -29,7 +29,7 @@
     <p align='center'>⚡ Really likes front-end development</p>
   <p align='center'>🏁 Goal is to become a full-stack dev</p>
 <br><br><br><br><br><br>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools. ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,tailwind,mongodb,express,nodejs" /><br>
