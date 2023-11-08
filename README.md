@@ -27,7 +27,7 @@
     <p align='center'>🙋‍♂️ <strong>Gamer, VR Enthusiast, Home Cook, Guitar Player.</strong></p>
     <p align='center'>🌱 Currently learning <strong>NodeJS & MongoDB.</strong></p>
     <p align='center'>⚡ Really likes front-end development</p>
-  <p align='center'>🏁 Goal is to become a full-stack dev</p>
+  <p align='center'>🏁 Goal is to become a full-stack dev.</p>
 <br><br><br><br><br><br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools. ⚒️</h2>
 <br/>
