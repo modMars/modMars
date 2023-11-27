@@ -23,7 +23,7 @@
   <img align='right' src='https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif' width='450'>
 <br/>
 <br/>
-  <h3 align='center'>About me</h3>
+  <h3 align='center'>About me.</h3>
     <p align='center'>🙋‍♂️ <strong>Gamer, VR Enthusiast, Home Cook, Guitar Player</strong></p>
     <p align='center'>🌱 Currently learning <strong>NodeJS & MongoDB</strong></p>
     <p align='center'>⚡ Really likes front-end development</p>
